@@ -65,7 +65,7 @@ export default function App() {
     container: {
       display: "flex",
       flexDirection: "column",
-      width: "80%",
+      width: "100%",
       margin: "auto",
       padding: "15px",
       gap: "10px",
